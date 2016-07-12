@@ -1,4 +1,5 @@
-# aurelia-skeleton-webpack
+aurelia webpack app
+===================
 An example Aurelia app build with Webpack instead of SystemJS/JSPM
 
 ### Getting started

@@ -7,7 +7,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/c-concat-p/aurelia-webpack-app.git"
-  }
+  },
   "scripts": {
     "dev": "./node_modules/.bin/webpack-dev-server --hot --inline --progress --colors",
     "build": "./node_modules/.bin/webpack --progress --profile --colors"
