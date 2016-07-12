@@ -1,0 +1,6 @@
+# sys
+.DS_STORE
+
+# project
+node_modules
+build/
